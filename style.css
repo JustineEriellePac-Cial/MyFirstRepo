@@ -1,5 +1,5 @@
 body {
-    background-color: #f4f6fb;
+    background-color: #000000;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
@@ -8,7 +8,7 @@ h1, h2 {
 }
 
 .container section {
-    background: white;
+    background: rgb(122, 122, 122);
     padding: 40px;
     border-radius: 12px;
     box-shadow: 0 3px 15px rgba(0,0,0,0.1);
