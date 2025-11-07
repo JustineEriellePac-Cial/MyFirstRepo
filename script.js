@@ -1,3 +1,3 @@
 document.getElementById("clickBtn").addEventListener("click", function() {
-    alert("Button clicked! Welcome to the homepage!");
+    alert("Peekaboo! Button clicked! Welcome to the homepage!");
 });
